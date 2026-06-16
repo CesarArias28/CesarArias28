@@ -47,7 +47,7 @@ A centralized PropTech platform designed to automate communication and maintenan
 * **Key Features:** Automated alerts and notifications via WhatsApp (Twilio API), secure authentication system using JWT, and dynamic in-memory PDF report generation/rendering.
 * **Stack:** React, Python, SQLAlchemy, Twilio API, JWT.
 
-### 🍸 [Estrop 44](https://github.com/CesarArias28/Estrop_Badalona)
+### 🍸 [Estrop Badalona](https://github.com/CesarArias28/Estrop_Badalona)
 A comprehensive platform for a Musical Bar & Events, specifically designed to optimize the conversion and capture of direct digital bookings.
 * **Key Features:** Monorepo architecture with an ultra-fast static Landing Page (SSG) and an asynchronous server optimized to handle official communications via webhooks connected to the Meta API.
 * **Stack:** Astro, Tailwind CSS, FastAPI, Python, Meta API.
@@ -130,7 +130,7 @@ Plataforma PropTech centralizada diseñada para automatizar la comunicación y l
 * **Características clave:** Alertas y notificaciones automatizadas vía WhatsApp (Twilio API), sistema de autenticación seguro mediante JWT y generación/renderización de reportes PDF dinámicos en memoria.
 * **Stack:** React, Python, SQLAlchemy, Twilio API, JWT.
 
-### 🍸 [Estrop 44](https://github.com/CesarArias28/Estrop-44-Landing)
+### 🍸 [Estrop Badalona](https://github.com/CesarArias28/Estrop_Badalona)
 Plataforma integral para un Bar Musical y Eventos, diseñada específicamente para optimizar la conversión y captura de reservas digitales directas.
 * **Características clave:** Arquitectura de Monorepo con una Landing Page estática ultrarrápida (SSG) y un servidor asíncrono optimizado para gestionar las comunicaciones oficiales mediante webhooks conectados con la Meta API.
 * **Stack:** Astro, Tailwind CSS, FastAPI, Python, Meta API.
@@ -140,25 +140,10 @@ Laboratorio técnico enfocado en el manejo asíncrono avanzado de datos y la per
 * **Características clave:** Consumo intensivo de REST APIs externas, gestión de estado global y optimización de renderizado dinámico en la interfaz de usuario.
 * **Stack:** React, Vite, JavaScript, Context API, Fetch API.
 
-### 👥 [Contact Data Handler](https://github.com/CesarArias28/lista-de-contactos-react)
+### 👥 [Contact Data Handler](https://github.com/CesarArias28/List_React)
 Desarrollo de una agenda interactiva enfocada en la robustez de las operaciones CRUD (Create, Read, Update, Delete).
 * **Características clave:** Sincronización continua de datos con servidores remotos mediante llamadas HTTP optimizadas y manejo estructurado del flujo de información.
 * **Stack:** React, Bootstrap, REST API.
-
----
-
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CesarArias28&show_icons=true&theme=radium&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CesarArias28&theme=radium&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarArias28&layout=compact&theme=radium" alt="Top Languages" />
-</div>
 
 ---
 
