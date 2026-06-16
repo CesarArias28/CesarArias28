@@ -37,7 +37,7 @@ Throughout my career and continuous learning, I have developed multiple projects
 A centralized PropTech platform designed to automate communication and maintenance ticket management between Tenants, Technicians, and Property Managers. It features lightning-fast ticket creation, automated WhatsApp notifications via Twilio, secure JWT authentication, and on-the-fly PDF report generation.
 * **Stack:** `React`, `Python`, `SQLAlchemy`, `Twilio API`, `JWT`
 
-### 🪩 [Estrop 44](https://github.com/CesarArias28/Estrop-44-Landing)
+### 🍸 [Estrop 44](https://github.com/CesarArias28/Estrop-44-Landing)
 A comprehensive platform (Landing Page + WhatsApp Webhook) for a Musical Bar & Events, designed to optimize private booking conversions. It uses a Monorepo architecture with an ultra-fast static Landing Page (SSG) and an asynchronous server to handle official Meta communications.
 * **Stack:** `Astro`, `Tailwind CSS`, `FastAPI`, `Python`, `Meta API`
 
@@ -54,14 +54,14 @@ An interactive contact book that allows creating, editing, and deleting profiles
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github.com/CesarArias28/CesarArias28/blob/main/stats-placeholder.png?raw=true" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=CesarArias28&show_icons=true&theme=radium&include_all_commits=true&count_private=true'" alt="GitHub Stats" />
-  <img height="180em" src="https://github.com/CesarArias28/CesarArias28/blob/main/streak-placeholder.png?raw=true" onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=CesarArias28&theme=radium&hide_border=true'" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CesarArias28&show_icons=true&theme=radium&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CesarArias28&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github.com/CesarArias28/CesarArias28/blob/main/langs-placeholder.png?raw=true" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=CesarArias28&layout=compact&theme=radium'" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarArias28&layout=compact&theme=radium" alt="Top Languages" />
 </div>
 
 ---
@@ -72,10 +72,9 @@ An interactive contact book that allows creating, editing, and deleting profiles
   <a href="https://github.com/CesarArias28">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Uncomment this and add your LinkedIn URL! -->
-  <!-- <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/julio-césar-arias-moreno-301355286">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> -->
+  </a>
 </div>
 
 <br><br><br>
@@ -123,7 +122,7 @@ A lo largo de mi carrera profesional y mi aprendizaje continuo, he desarrollado 
 Una plataforma PropTech centralizada diseñada para automatizar la comunicación y la gestión de tickets de mantenimiento entre Inquilinos, Técnicos y Administradores de fincas. Permite la creación de averías en tiempo récord, notificaciones automatizadas vía WhatsApp (Twilio), manejo de seguridad con JWT y renderización de reportes PDF al vuelo.
 * **Stack:** `React`, `Python`, `SQLAlchemy`, `Twilio API`, `JWT`
 
-### 🪩 [Estrop 44](https://github.com/CesarArias28/Estrop-44-Landing)
+### 🍸 [Estrop 44](https://github.com/CesarArias28/Estrop-44-Landing)
 Plataforma integral (Landing Page + WhatsApp Webhook) para un Bar Musical y Eventos, diseñada para optimizar la conversión de reservas. Utiliza una arquitectura de Monorepo con una Landing Page estática ultrarrápida (SSG) y un servidor asíncrono para gestionar las comunicaciones oficiales con Meta.
 * **Stack:** `Astro`, `Tailwind CSS`, `FastAPI`, `Python`, `Meta API`
 
@@ -140,14 +139,14 @@ Una agenda de contactos interactiva que permite crear, editar y eliminar perfile
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github.com/CesarArias28/CesarArias28/blob/main/stats-placeholder.png?raw=true" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=CesarArias28&show_icons=true&theme=radium&include_all_commits=true&count_private=true'" alt="GitHub Stats" />
-  <img height="180em" src="https://github.com/CesarArias28/CesarArias28/blob/main/streak-placeholder.png?raw=true" onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=CesarArias28&theme=radium&hide_border=true'" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CesarArias28&show_icons=true&theme=radium&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CesarArias28&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github.com/CesarArias28/CesarArias28/blob/main/langs-placeholder.png?raw=true" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=CesarArias28&layout=compact&theme=radium'" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarArias28&layout=compact&theme=radium" alt="Top Languages" />
 </div>
 
 ---
@@ -158,8 +157,7 @@ Una agenda de contactos interactiva que permite crear, editar y eliminar perfile
   <a href="https://github.com/CesarArias28">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- ¡Descomenta esto y añade tu URL de LinkedIn! -->
-  <!-- <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/julio-césar-arias-moreno-301355286">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> -->
+  </a>
 </div>
