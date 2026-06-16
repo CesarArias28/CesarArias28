@@ -5,49 +5,62 @@
 # Hi! I'm Cesar Arias 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;React+%7C+Python+%7C+Flask;Always+learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Operations+Specialist;Full-Stack+Web+Developer;React+%7C+Python+%7C+FastAPI;Optimizing+bottlenecks+🚀" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
 
-Hi! I'm a Full-Stack Developer passionate about technology and building amazing web applications. I was trained in the **4Geeks Academy** ecosystem, where I developed a solid foundation in both Frontend and Backend development.
+I am an Operations Specialist who writes code to solve business bottlenecks. After years of leading high-demand logistics environments and managing the efficiency of large teams, I have focused on Full-Stack development to automate processes and optimize organizational resources.
 
-- 🔭 I’m currently working on sharpening my skills in **React**, **JavaScript**, and **Python**.
-- 🌱 I’m constantly learning new technologies and best development practices.
-- 👯 I’m looking to collaborate on Open Source projects and dynamic, interactive web applications.
-- ⚡ **Fun fact**: I love solving complex problems and turning ideas into clean and efficient code.
+* 🔭 **Current Focus:** Building internal tools, automations, and SaaS platforms that reduce response times.
+* 🌱 **Specialization:** Relational database optimization, agile API consumption, and the development of efficient logic flows.
+* ⚡ **Competitive Advantage:** Accustomed to resolving operational crises under high pressure in real-time; now I use code and logs to prevent them.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,python,flask,postgres,git,github,vscode&perline=6" />
-  </a>
-</div>
+### Backend & Databases
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F28?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend & Styling
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-%230C1222.svg?style=for-the-badge&logo=astro&logoColor=white)
+
+### Integrations & Management
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-Throughout my career and continuous learning, I have developed multiple projects using modern architectures and various technologies. Here are some of the most notable:
-
 ### 🔧 [FixFlow](https://github.com/CesarArias28/FixFlow)
-A centralized PropTech platform designed to automate communication and maintenance ticket management between Tenants, Technicians, and Property Managers. It features lightning-fast ticket creation, automated WhatsApp notifications via Twilio, secure JWT authentication, and on-the-fly PDF report generation.
-* **Stack:** `React`, `Python`, `SQLAlchemy`, `Twilio API`, `JWT`
+A centralized PropTech platform designed to automate communication and maintenance ticket management between Tenants, Technicians, and Property Managers. **Drastically reduces operational load and manual calls by centralizing incidents in record time.**
+* **Key Features:** Automated alerts and notifications via WhatsApp (Twilio API), secure authentication system using JWT, and dynamic in-memory PDF report generation/rendering.
+* **Stack:** React, Python, SQLAlchemy, Twilio API, JWT.
 
 ### 🍸 [Estrop 44](https://github.com/CesarArias28/Estrop-44-Landing)
-A comprehensive platform (Landing Page + WhatsApp Webhook) for a Musical Bar & Events, designed to optimize private booking conversions. It uses a Monorepo architecture with an ultra-fast static Landing Page (SSG) and an asynchronous server to handle official Meta communications.
-* **Stack:** `Astro`, `Tailwind CSS`, `FastAPI`, `Python`, `Meta API`
+A comprehensive platform for a Musical Bar & Events, specifically designed to optimize the conversion and capture of direct digital bookings.
+* **Key Features:** Monorepo architecture with an ultra-fast static Landing Page (SSG) and an asynchronous server optimized to handle official communications via webhooks connected to the Meta API.
+* **Stack:** Astro, Tailwind CSS, FastAPI, Python, Meta API.
 
-### 🌌 [Starwars Blog](https://github.com/CesarArias28/Blog-de-Starwars-Cesar)
-An interactive blog about the Star Wars universe built with **React** and **Vite**. It consumes an external API (SWAPI) to display detailed information about characters, vehicles, and planets, allowing users to save their favorites using React's global state.
-* **Stack:** `React`, `Vite`, `JavaScript`, `CSS`, `Fetch API`
+### 🌌 [Starwars Component Lab](https://github.com/CesarArias28/Blog-de-Starwars-Cesar)
+A technical lab focused on advanced asynchronous data handling and client-side information persistence.
+* **Key Features:** Intensive consumption of external REST APIs, global state management, and dynamic rendering optimization in the user interface.
+* **Stack:** React, Vite, JavaScript, Context API, Fetch API.
 
-### 👥 [Contact List](https://github.com/CesarArias28/lista-de-contactos-react)
-An interactive contact book that allows creating, editing, and deleting profiles by robustly communicating with an external REST API, managing the global state with React's Context API.
-* **Stack:** `React`, `Context API`, `Bootstrap`
+### 👥 [Contact Data Handler](https://github.com/CesarArias28/lista-de-contactos-react)
+Development of an interactive contact book focused on the robustness of CRUD operations (Create, Read, Update, Delete).
+* **Key Features:** Continuous data synchronization with remote servers using optimized HTTP calls and structured information flow management.
+* **Stack:** React, Bootstrap, REST API.
 
 ---
 
@@ -90,49 +103,62 @@ An interactive contact book that allows creating, editing, and deleting profiles
 # Hola! Soy Cesar Arias 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;React+%7C+Python+%7C+Flask;Siempre+aprendiendo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Especialista+en+Operaciones;Full-Stack+Web+Developer;React+%7C+Python+%7C+FastAPI;Resolviendo+problemas+🚀" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 Sobre Mí
 
-¡Hola! Soy un desarrollador Full-Stack apasionado por la tecnología y la creación de aplicaciones web increíbles. Me he formado en el ecosistema de **4Geeks Academy**, donde he desarrollado una sólida base tanto en el Frontend como en el Backend.
+Soy un especialista en operaciones que escribe código para resolver cuellos de botella empresariales. Tras años liderando entornos logísticos de alta demanda y gestionando la eficiencia de grandes equipos, me he enfocado en el desarrollo Full-Stack para automatizar procesos y optimizar recursos organizacionales.
 
-- 🔭 Actualmente trabajando en perfeccionar mis habilidades en **React**, **JavaScript** y **Python**.
-- 🌱 Aprendiendo constantemente nuevas tecnologías y mejores prácticas de desarrollo.
-- 👯 Buscando colaborar en proyectos Open Source y aplicaciones web dinámicas e interactivas.
-- ⚡ **Dato curioso**: Me encanta resolver problemas complejos y transformar ideas en código limpio y eficiente.
+* 🔭 **Enfoque actual:** Construyendo herramientas internas, automatizaciones y plataformas SaaS que reducen tiempos de respuesta.
+* 🌱 **Especialización:** Optimización de bases de datos relacionales, consumo ágil de APIs y desarrollo de flujos lógicos eficientes.
+* ⚡ **Ventaja competitiva:** Habituado a resolver crisis operativas bajo alta presión en tiempo real; ahora utilizo el código y los logs para prevenirlas.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,python,flask,postgres,git,github,vscode&perline=6" />
-  </a>
-</div>
+### Backend & Databases
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F28?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend & Estilos
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-%230C1222.svg?style=for-the-badge&logo=astro&logoColor=white)
+
+### Integraciones & Gestión
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-A lo largo de mi carrera profesional y mi aprendizaje continuo, he desarrollado múltiples proyectos utilizando arquitecturas modernas y diversas tecnologías. Aquí algunos de los más destacados:
-
 ### 🔧 [FixFlow](https://github.com/CesarArias28/FixFlow)
-Una plataforma PropTech centralizada diseñada para automatizar la comunicación y la gestión de tickets de mantenimiento entre Inquilinos, Técnicos y Administradores de fincas. Permite la creación de averías en tiempo récord, notificaciones automatizadas vía WhatsApp (Twilio), manejo de seguridad con JWT y renderización de reportes PDF al vuelo.
-* **Stack:** `React`, `Python`, `SQLAlchemy`, `Twilio API`, `JWT`
+Plataforma PropTech centralizada diseñada para automatizar la comunicación y la gestión de tickets de mantenimiento entre Inquilinos, Técnicos y Administradores de fincas. **Reduce drásticamente la carga operativa y las llamadas manuales centralizando las incidencias en tiempo récord.**
+* **Características clave:** Alertas y notificaciones automatizadas vía WhatsApp (Twilio API), sistema de autenticación seguro mediante JWT y generación/renderización de reportes PDF dinámicos en memoria.
+* **Stack:** React, Python, SQLAlchemy, Twilio API, JWT.
 
 ### 🍸 [Estrop 44](https://github.com/CesarArias28/Estrop-44-Landing)
-Plataforma integral (Landing Page + WhatsApp Webhook) para un Bar Musical y Eventos, diseñada para optimizar la conversión de reservas. Utiliza una arquitectura de Monorepo con una Landing Page estática ultrarrápida (SSG) y un servidor asíncrono para gestionar las comunicaciones oficiales con Meta.
-* **Stack:** `Astro`, `Tailwind CSS`, `FastAPI`, `Python`, `Meta API`
+Plataforma integral para un Bar Musical y Eventos, diseñada específicamente para optimizar la conversión y captura de reservas digitales directas.
+* **Características clave:** Arquitectura de Monorepo con una Landing Page estática ultrarrápida (SSG) y un servidor asíncrono optimizado para gestionar las comunicaciones oficiales mediante webhooks conectados con la Meta API.
+* **Stack:** Astro, Tailwind CSS, FastAPI, Python, Meta API.
 
-### 🌌 [Starwars Blog](https://github.com/CesarArias28/Blog-de-Starwars-Cesar)
-Un blog interactivo sobre el universo de Star Wars construido utilizando **React** y **Vite**. Consume una API externa (SWAPI) para mostrar información detallada sobre personajes, vehículos y planetas, permitiendo a los usuarios guardar sus favoritos utilizando el estado global de React.
-* **Stack:** `React`, `Vite`, `JavaScript`, `CSS`, `Fetch API`
+### 🌌 [Starwars Component Lab](https://github.com/CesarArias28/Blog-de-Starwars-Cesar)
+Laboratorio técnico enfocado en el manejo asíncrono avanzado de datos y la persistencia de información en el lado del cliente.
+* **Características clave:** Consumo intensivo de REST APIs externas, gestión de estado global y optimización de renderizado dinámico en la interfaz de usuario.
+* **Stack:** React, Vite, JavaScript, Context API, Fetch API.
 
-### 👥 [Contact List](https://github.com/CesarArias28/lista-de-contactos-react)
-Una agenda de contactos interactiva que permite crear, editar y eliminar perfiles comunicándose de manera robusta con una REST API externa, gestionando la información mediante el Context API de React.
-* **Stack:** `React`, `Context API`, `Bootstrap`
+### 👥 [Contact Data Handler](https://github.com/CesarArias28/lista-de-contactos-react)
+Desarrollo de una agenda interactiva enfocada en la robustez de las operaciones CRUD (Create, Read, Update, Delete).
+* **Características clave:** Sincronización continua de datos con servidores remotos mediante llamadas HTTP optimizadas y manejo estructurado del flujo de información.
+* **Stack:** React, Bootstrap, REST API.
 
 ---
 
