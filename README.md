@@ -47,7 +47,7 @@ A centralized PropTech platform designed to automate communication and maintenan
 * **Key Features:** Automated alerts and notifications via WhatsApp (Twilio API), secure authentication system using JWT, and dynamic in-memory PDF report generation/rendering.
 * **Stack:** React, Python, SQLAlchemy, Twilio API, JWT.
 
-### 🍸 [Estrop 44](https://github.com/CesarArias28/Estrop-44-Landing)
+### 🍸 [Estrop 44](https://github.com/CesarArias28/Estrop_Badalona)
 A comprehensive platform for a Musical Bar & Events, specifically designed to optimize the conversion and capture of direct digital bookings.
 * **Key Features:** Monorepo architecture with an ultra-fast static Landing Page (SSG) and an asynchronous server optimized to handle official communications via webhooks connected to the Meta API.
 * **Stack:** Astro, Tailwind CSS, FastAPI, Python, Meta API.
@@ -57,26 +57,11 @@ A technical lab focused on advanced asynchronous data handling and client-side i
 * **Key Features:** Intensive consumption of external REST APIs, global state management, and dynamic rendering optimization in the user interface.
 * **Stack:** React, Vite, JavaScript, Context API, Fetch API.
 
-### 👥 [Contact Data Handler](https://github.com/CesarArias28/lista-de-contactos-react)
+### 👥 [Contact Data Handler](https://github.com/CesarArias28/List_React)
 Development of an interactive contact book focused on the robustness of CRUD operations (Create, Read, Update, Delete).
 * **Key Features:** Continuous data synchronization with remote servers using optimized HTTP calls and structured information flow management.
 * **Stack:** React, Bootstrap, REST API.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CesarArias28&show_icons=true&theme=radium&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CesarArias28&theme=radium&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarArias28&layout=compact&theme=radium" alt="Top Languages" />
-</div>
-
+  
 ---
 
 ## 📫 Reach Me
